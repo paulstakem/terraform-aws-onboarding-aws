@@ -1,5 +1,4 @@
-tfplan
-tfplan.json
+tfplan*
 .dccache
 .idea
 .terraform*
